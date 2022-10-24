@@ -40,7 +40,7 @@ Pagina de formulário, aplicando alguns conceitos aprendidos como validação de
 
 >Primeiro faça o clone deste repositório em sua maquina.
 ```
-git clone git@github.com:Adson-Gomes-Oliveira/Pixels-Art.git
+git clone git@github.com:Adson-Gomes-Oliveira/Trybewarts.git
 ```
 >Utilize o comando `npm install` caso queira utilizar o lint no projeto.
 
